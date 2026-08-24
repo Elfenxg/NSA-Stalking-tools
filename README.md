@@ -1,4 +1,4 @@
-# NSA-Stalking-tools
+# NSA-Stalking-tools 😸🪖
 
 Инструменты для анализа и мониторинга данных VK.
 
